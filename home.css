@@ -1,0 +1,14 @@
+h1
+{
+    background-color: blue;
+}
+body
+{
+    /* background-image: url(computer);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-attachment: fixed;
+    background-position: right; */
+    background: fixed no-repeat contain fixed left bottom url(computer) #;
+    
+}
