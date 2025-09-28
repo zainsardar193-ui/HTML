@@ -1,0 +1,21 @@
+h1
+{
+   border-style: dashed dotted inset ridge;
+   border-bottom-color: blue;
+    border-left-color:yellow;
+     border-top-color: green;
+      border-right-color: rgb(228, 26, 26);
+      margin: 500px;
+}
+p
+{
+    border-style:dotted;
+    border-color: rgb(255, 0, 140);
+    width: 200px;
+    height: 150px;
+}
+h2
+{
+    border: 5px   dotted rosybrown;
+    border-radius: 5px;
+}
