@@ -1,14 +1,20 @@
 h1
 {
-    background-color: blue;
+   border-style: dashed dotted inset ridge;
+   border-bottom-color: blue;
+    border-left-color:yellow;
+     border-top-color: green;
+      border-right-color: rgb(228, 26, 26);
 }
-body
+p
 {
-    /* background-image: url(computer);
-    background-repeat: no-repeat;
-    background-size: contain;
-    background-attachment: fixed;
-    background-position: right; */
-    background: fixed no-repeat contain fixed left bottom url(computer) #;
-    
+    border-style:dotted;
+    border-color: red;
+    width: 200px;
+    height: 150px;
+}
+h2
+{
+    border: 5px   dotted rosybrown;
+    border-radius: 5px;
 }
