@@ -1,0 +1,32 @@
+.container
+{
+    background-color: blue;
+    width: 200px;
+    height: 200px;
+}
+p
+{
+    width: 200px;
+    height: 200px;
+    background-color: blue;
+   
+    overflow: scroll;
+}
+p
+{
+color: beige;
+font-family: cursive;
+font-size: medium;
+font-style: italic;
+text-align: left;
+text-decoration: overline;
+text-shadow: 2px 2px 5px pink;
+text-indent: 5px;
+letter-spacing: 1px;
+
+}
+
+
+
+
+
