@@ -1,0 +1,19 @@
+a
+{
+    text-decoration: none;
+    background-color: blue;
+   
+    text-transform: uppercase;
+    font-family: cursive;
+    padding: 5px;
+    display: block;
+    
+}
+a:hover
+{
+    background-color: pink;
+}
+a:link
+{
+    color: red ;
+}
